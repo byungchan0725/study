@@ -20,7 +20,7 @@ git add <파일 명>
 
 #### 관리 대상 확인 
 
-![git add test.txt](./images/git.add.test.txt.png)  
+![git add](./images/git.add.test.txt.png)  
 이제 test.txt 파일이 관리가 되고 있다.  
 
 <br>
@@ -33,11 +33,15 @@ git add .
 
 
 #### Commit 하기 
+
 ```
 git commit -m "커밋 메시지"
 ```
-커밋 메시지를 **FIRST COMMIT**로 지정하였다. 
-![git commit](./Images/git.commit.png)   
+
+커밋 메시지를 **FIRST COMMIT**로 지정하였다.   
+![git commit](./Images/git.commit.png)    
+
+
 
 그 다음 status를 확인해보면 변경 사항이 없기 때문에 관리할 파일이 없다고 뜬다.   
 
