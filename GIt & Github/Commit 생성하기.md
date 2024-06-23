@@ -20,7 +20,7 @@ git add <파일 명>
 
 #### 관리 대상 확인 
 
-![git add](./images/git.add.test.txt.png)  
+![git add](./images/git.status-1.png)  
 이제 test.txt 파일이 관리가 되고 있다.  
 
 <br>
